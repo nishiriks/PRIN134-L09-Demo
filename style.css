@@ -41,3 +41,8 @@ ol li {
 .highlight {
   background-color: yellow;
 }
+.ingredient {
+  padding: 11px;
+  font-size: 16px;
+}
+
